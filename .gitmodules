@@ -88,3 +88,9 @@
 [submodule "LiveSplit/Components/LiveSplit.Counter"]
 	path = LiveSplit/Components/LiveSplit.Counter
 	url = https://github.com/LiveSplit/LiveSplit.Counter.git
+[submodule "LiveSplit/Components/LiveSplit.HistoryAverage"]
+	path = LiveSplit/Components/LiveSplit.HistoryAverage
+	url = https://github.com/Hyphen-ated/LiveSplit.HistoryAverage.git
+[submodule "LiveSplit/Components/LiveSplit.Streak"]
+	path = LiveSplit/Components/LiveSplit.Streak
+	url = https://github.com/Hyphen-ated/LiveSplit.Streak
